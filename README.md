@@ -4,5 +4,5 @@ Sou graduado em análise e desenvolvimento de sistemas porém nunca atuei como t
 Estou buscando uma oportunidade para fazer minha transicação de carreira para a área de técnologia.
 Atualmente estou aprendendo a linguagem de programção Python e linguagem sql no SGBD MySql.
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="60" height="60" />
 
